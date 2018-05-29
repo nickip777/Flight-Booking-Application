@@ -1,0 +1,24 @@
+﻿<Window x:Class="cmpt300a7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="318" Width="600" ResizeMode="NoResize">
+    <Grid Margin="0,0,2,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="187*"/>
+            <ColumnDefinition Width="86*"/>
+            <ColumnDefinition Width="309*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="passengerBtn" Content="New Passenger" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="175" Height="22" Grid.Column="2" Grid.ColumnSpan="2" Click="passengerBtn_Click"/>
+        <Button x:Name="flightInstanceBtn" Content="View Passengers" Grid.Column="1" HorizontalAlignment="Left" Margin="1,228,0,0" VerticalAlignment="Top" Width="175" Height="22" Click="flightInstanceBtn_Click"/>
+        <Button x:Name="addBookingBtn" Content="Add Booking" Grid.Column="3" Margin="128,10,10,0" VerticalAlignment="Top" Height="22" Click="addBookingBtn_Click"/>
+        <ComboBox x:Name="flightInstanceComboBox" Grid.Column="1" HorizontalAlignment="Left" Margin="3,34,0,0" VerticalAlignment="Top" Width="173" Height="21"/>
+        <Label Content="Flight Instance:" Grid.Column="1" HorizontalAlignment="Left" Margin="3,11,0,0" VerticalAlignment="Top" Width="166" Height="23"/>
+        <DataGrid x:Name="passengersDataGrid" ItemsSource="{Binding}" Grid.Column="2" HorizontalAlignment="Left" Margin="10,60,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="190" Width="375"/>
+        <Calendar x:Name="flightInstanceCal" Grid.Column="1" HorizontalAlignment="Left" Margin="1,60,0,0" VerticalAlignment="Top" Height="163" Width="175" DisplayMode="Year"/>
+        <Label x:Name="remainingSeatsLabel" Content="Remaining Seats:" Grid.Column="3" HorizontalAlignment="Left" Margin="185,260,0,0" VerticalAlignment="Top" Width="114"/>
+        <Label x:Name="errorMsg" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="3,260,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3" Width="369" Foreground="Red"/>
+        <Label x:Name="pidMsg" Content="" Grid.Column="2" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="375" Foreground="#FF1755FB"/>
+
+    </Grid>
+</Window>

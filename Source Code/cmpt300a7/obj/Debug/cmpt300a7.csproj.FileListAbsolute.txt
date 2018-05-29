@@ -1,0 +1,16 @@
+\\freesia.csil.sfu.ca\userdata\nip\documents\visual studio 2012\Projects\cmpt300a7\cmpt300a7\bin\Debug\cmpt300a7.exe.config
+\\freesia.csil.sfu.ca\userdata\nip\documents\visual studio 2012\Projects\cmpt300a7\cmpt300a7\bin\Debug\cmpt300a7.exe
+\\freesia.csil.sfu.ca\userdata\nip\documents\visual studio 2012\Projects\cmpt300a7\cmpt300a7\bin\Debug\cmpt300a7.pdb
+\\freesia.csil.sfu.ca\userdata\nip\documents\visual studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Debug\MainWindow.baml
+\\freesia.csil.sfu.ca\userdata\nip\documents\visual studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Debug\MainWindow.g.cs
+\\freesia.csil.sfu.ca\userdata\nip\documents\visual studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Debug\App.g.cs
+\\freesia.csil.sfu.ca\userdata\nip\documents\visual studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Debug\cmpt300a7_MarkupCompile.cache
+\\freesia.csil.sfu.ca\userdata\nip\documents\visual studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Debug\cmpt300a7.g.resources
+\\freesia.csil.sfu.ca\userdata\nip\documents\visual studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Debug\cmpt300a7.Properties.Resources.resources
+\\freesia.csil.sfu.ca\userdata\nip\documents\visual studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Debug\cmpt300a7.csproj.GenerateResource.Cache
+\\freesia.csil.sfu.ca\userdata\nip\documents\visual studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Debug\cmpt300a7.exe
+\\freesia.csil.sfu.ca\userdata\nip\documents\visual studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Debug\cmpt300a7.pdb
+\\freesia.csil.sfu.ca\userdata\nip\Documents\Visual Studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Debug\AddBooking.baml
+\\freesia.csil.sfu.ca\userdata\nip\Documents\Visual Studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Debug\AddPassenger.baml
+\\freesia.csil.sfu.ca\userdata\nip\Documents\Visual Studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Debug\AddBooking.g.cs
+\\freesia.csil.sfu.ca\userdata\nip\Documents\Visual Studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Debug\AddPassenger.g.cs

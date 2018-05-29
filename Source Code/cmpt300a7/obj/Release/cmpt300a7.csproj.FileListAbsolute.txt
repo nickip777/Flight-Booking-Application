@@ -1,0 +1,16 @@
+\\freesia.csil.sfu.ca\userdata\nip\Documents\Visual Studio 2012\Projects\cmpt300a7\cmpt300a7\bin\Release\cmpt300a7.exe.config
+\\freesia.csil.sfu.ca\userdata\nip\Documents\Visual Studio 2012\Projects\cmpt300a7\cmpt300a7\bin\Release\cmpt300a7.exe
+\\freesia.csil.sfu.ca\userdata\nip\Documents\Visual Studio 2012\Projects\cmpt300a7\cmpt300a7\bin\Release\cmpt300a7.pdb
+\\freesia.csil.sfu.ca\userdata\nip\Documents\Visual Studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Release\AddBooking.baml
+\\freesia.csil.sfu.ca\userdata\nip\Documents\Visual Studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Release\AddPassenger.baml
+\\freesia.csil.sfu.ca\userdata\nip\Documents\Visual Studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Release\MainWindow.baml
+\\freesia.csil.sfu.ca\userdata\nip\Documents\Visual Studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Release\AddBooking.g.cs
+\\freesia.csil.sfu.ca\userdata\nip\Documents\Visual Studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Release\AddPassenger.g.cs
+\\freesia.csil.sfu.ca\userdata\nip\Documents\Visual Studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Release\MainWindow.g.cs
+\\freesia.csil.sfu.ca\userdata\nip\Documents\Visual Studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Release\App.g.cs
+\\freesia.csil.sfu.ca\userdata\nip\Documents\Visual Studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Release\cmpt300a7_MarkupCompile.cache
+\\freesia.csil.sfu.ca\userdata\nip\Documents\Visual Studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Release\cmpt300a7.g.resources
+\\freesia.csil.sfu.ca\userdata\nip\Documents\Visual Studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Release\cmpt300a7.Properties.Resources.resources
+\\freesia.csil.sfu.ca\userdata\nip\Documents\Visual Studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Release\cmpt300a7.csproj.GenerateResource.Cache
+\\freesia.csil.sfu.ca\userdata\nip\Documents\Visual Studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Release\cmpt300a7.exe
+\\freesia.csil.sfu.ca\userdata\nip\Documents\Visual Studio 2012\Projects\cmpt300a7\cmpt300a7\obj\Release\cmpt300a7.pdb
